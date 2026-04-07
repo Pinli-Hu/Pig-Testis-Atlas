@@ -1,4 +1,4 @@
-# pig-testis-atlas
+# Pig-Testis-Atlas
 
 A high-resolution single-cell and spatial omics atlas of testis reveals developmental transitions across the pig lifespan.
 
