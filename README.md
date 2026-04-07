@@ -2,7 +2,7 @@
 
 A high-resolution single-cell and spatial omics atlas of testis reveals developmental transitions across the pig lifespan.
 
-Spatial Transcriptomics Analysis Note
+## Spatial Transcriptomics Analysis Note
 
 The spatial transcriptomics data used in this study were generated using Stereo-seq technology by BGI Genomics. Processing of the raw spatial data requires alignment with the corresponding SAW (Stereo-seq Analysis Workflow) version.
 
@@ -15,9 +15,9 @@ StereoMap ≥ 4.0
 
 Using compatible versions is important to ensure consistent spatial coordinate parsing, cell segmentation, and downstream analysis.
 
-Dependencies
+## Dependencies
 
-Python
+### Python
 
 The analysis was performed using Python with the following packages:
 
@@ -36,7 +36,7 @@ geopandas==0.13.2
 rasterio==1.3.11
 shapely==2.0.7
 
-R
+### R
 
 The analysis was performed using R with the following packages:
 
