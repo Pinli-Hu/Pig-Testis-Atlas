@@ -1,4 +1,4 @@
-# Pig-Testis-Atlas
+# Pig-Testis-Atlas   [![DOI](https://zenodo.org/badge/1185322126.svg)](https://doi.org/10.5281/zenodo.22207686)
 
 A high-resolution single-cell and spatial omics atlas of testis reveals developmental transitions across the pig lifespan.
 
